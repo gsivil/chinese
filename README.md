@@ -1,3 +1,3 @@
-#chinese
+#Chinese
 
 Learning chinese
